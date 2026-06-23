@@ -83,3 +83,5 @@ source("SDS_Project_Isfan_Mihai_George_DS_411.R")
 - Brockwell, P. J., & Davis, R. A. (1987). *Time series: Theory and methods*. Springer-Verlag.
 - Shumway, R. H., & Stoffer, D. S. (2017). *Time series analysis and its applications: With R examples* (4th ed.). Springer.
 - Federal Reserve Bank of St. Louis. (2025). *Unemployment rate* [Data set]. FRED. https://fred.stlouisfed.org/series/UNRATE
+
+  # THIS IS A FINISHED PROJECT AND NO FURTHER COMMITS WILL BE MADE
